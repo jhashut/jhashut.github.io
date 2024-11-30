@@ -4,6 +4,9 @@
 {% if site.x_username %}
   <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fa-brands fa-x-twitter fa-2xs"></i></a>
 {% endif %}
+{% if site.substack_url %}
+  <a href="{{ site.substack_url }}" title="Substack"><i class="fa-brands fa-blogger fa-2xs"></i></a>
+{% endif %}
 {% if site.scholar_userid %}
   <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar fa-2xs"></i></a>
 {% endif %}
