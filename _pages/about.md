@@ -2,24 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: p20ashutoshj[at]iima.ac.in
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+👋 Hello there! Welcome to my homepage!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently an Investment Associate at [Balyasny Asset Management](https://www.bamfunds.com/) in Singapore. In particular, I focus on the Fundamental Long/Short Equities strategy in India. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was previously a Private Equity Associate with [ChrysCapital](http://www.chryscapital.com/) covering the Consumer and Healthcare space in India.
+
+I also spent some time as an Analyst in the front-office India Coverage team of [J.P. Morgan](https://www.jpmorgan.com/global) in their Investment Banking Division.
+
+My primary interests lie in Capital Markets, Artificial Intelligence, and Applied Mathematics.
+
+I graduated with an MBA from [Indian Institute of Management Ahmedabad](https://www.iima.ac.in/) in April 2022. I was fortunate enough to be advised by [Dr. Viswanath Pingali](https://www.iima.ac.in/faculty-research/faculty-directory/Viswanath-Pingali) doing research on IPO markets in India.
+
+Prior to B-School, I spent two amazing years as a Quant at [Goldman Sachs](https://www.goldmansachs.com/) working with their Mortgage and Credit trading desks.
+
+Before that, I graduated with a B.Tech. (Honors) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I spent most days working on academic research in Machine Learning and Reinforcement Learning under the guidance of [Dr. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
