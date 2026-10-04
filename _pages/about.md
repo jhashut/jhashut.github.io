@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 👋 Hello there! Welcome to my homepage!
 
-I'm currently an Investment Associate at [Balyasny Asset Management](https://www.bamfunds.com/) in Singapore. In particular, I focus on the Fundamental Long/Short Equities strategy in India. 
+I'm currently an Investment Analyst at [Balyasny Asset Management](https://www.bamfunds.com/) in Singapore. In particular, I focus on the Fundamental Long/Short Equities strategy in India. 
 
 I was previously a Private Equity Associate with [ChrysCapital](http://www.chryscapital.com/) covering the Consumer and Healthcare space in India.
 
